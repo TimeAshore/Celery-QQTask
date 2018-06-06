@@ -10,7 +10,7 @@
 
 本项目 github :  https://github.com/TimeAshore/Celery-QQTask
 
-关于Celery学习，请查看这篇文章[《Python异步任务之Celery》](https://www.cnblogs.com/ldy-miss/p/9141855.html)
+关于Celery学习，请查看这篇文章[《Python异步任务之Celery》](https://timeashore.github.io/2018/06/06/Python%E5%BC%82%E6%AD%A5%E4%BB%BB%E5%8A%A1%E4%B9%8BCelery/)
 
 项目目录结构图：
 
